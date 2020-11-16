@@ -74,3 +74,12 @@ def welcome_user(username):
 if __name__ == "__main__":
     app.run(debug=True)
 ```
+
+**interacting with HTML**
+* Naming conventions are essential
+* We need to create templates folder in our dir
+* Flasks looks for templates folder and anything inside the folder
+* We will create index.html inside our templates folder
+
+
+**Use bootsrap to design our page with HTML, CSS etc**
